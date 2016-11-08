@@ -1,0 +1,9 @@
+Hey this is eveg batch.\
+
+
+
+class JavaClass
+{
+       public static void main()
+       {}
+}
