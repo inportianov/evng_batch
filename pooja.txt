@@ -1,0 +1,10 @@
+class chdclass
+
+{
+   static int a= 10;
+}
+
+ system.out.println(a); // static  void
+{
+i am pooja;
+}
